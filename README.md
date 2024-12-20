@@ -5,7 +5,7 @@ app/
 │   │   ├── AndroidManifest.xml
 │   │   ├── java/
 │   │   │   ├── com/
-│   │   │   │   ├── example/
+│   │   │   │   ├── pakelcomedy/
 │   │   │   │   │   ├── appname/
 │   │   │   │   │   │   ├── MainActivity.kt
 │   │   │   │   │   │   ├── MyFirebaseMessagingService.kt

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257029300345",
+    "project_id": "notif-84895",
+    "storage_bucket": "notif-84895.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257029300345:android:2ffad02ca2f8e50f56f4a8",
+        "android_client_info": {
+          "package_name": "com.pakelcomedy.notifikasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNh02jb3UEBkSBSg3Cd6v19haNHjNTI9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -6,7 +6,7 @@ app/
 │   │   ├── java/
 │   │   │   ├── com/
 │   │   │   │   ├── pakelcomedy/
-│   │   │   │   │   ├── appname/
+│   │   │   │   │   ├── notifikasi/
 │   │   │   │   │   │   ├── MainActivity.kt
 │   │   │   │   │   │   ├── MyFirebaseMessagingService.kt
 │   │   │   │   │   │   ├── NetworkUtils.kt
